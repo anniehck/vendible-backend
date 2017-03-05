@@ -2,7 +2,7 @@
 
 Tasks:
 - Node setup
-- Postgres setup (Sequelize)
+- MongoDB setup (Mongoose or other ORM)
 - User table, user model
 - Passport.js user authentication
 - Basic routing
