@@ -1,0 +1,29 @@
+{
+  "name": "vendible-backend",
+  "version": "1.0.0",
+  "description": "API back-end for Vendible mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-change": "^2.1.2",
+    "database-cleaner": "1.2.0",
+    "eslint": "^3.17.0",
+    "eslint-plugin-json": "^1.2.0",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.7",
+    "sinon-chai": "^2.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreyfriedman/vendible-backend.git"
+  },
+  "author": "Jeffrey Friedman, Jun Oh, Annie Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffreyfriedman/vendible-backend/issues"
+  },
+  "homepage": "https://github.com/jeffreyfriedman/vendible-backend#readme"
+}
